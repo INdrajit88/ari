@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2916" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2333" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -194,7 +194,8 @@
         <mxCell id="IDSk1D_cfIAQ-q88vp_4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XhwqadWrKfWZdFmPDG82-82" target="IDSk1D_cfIAQ-q88vp_4-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="130" y="874" />
+              <mxPoint x="160" y="874" />
+              <mxPoint x="160" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -214,7 +215,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XhwqadWrKfWZdFmPDG82-89" value="&lt;span style=&quot;font-size: 10pt; font-family: Calibri; font-weight: bold;&quot;&gt;Patient Arrival Prediction&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="70" y="442.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="442.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XhwqadWrKfWZdFmPDG82-93" value="GATHARING&amp;nbsp;&lt;br&gt;PATIENT&lt;br&gt;FREQUENCY" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="210" y="403" width="100" height="60" as="geometry" />
@@ -240,7 +241,7 @@
           <mxGeometry x="410" y="1060" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="IDSk1D_cfIAQ-q88vp_4-0" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-80" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="-40" y="502.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IDSk1D_cfIAQ-q88vp_4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IDSk1D_cfIAQ-q88vp_4-4" target="IDSk1D_cfIAQ-q88vp_4-0">
           <mxGeometry relative="1" as="geometry">
@@ -251,7 +252,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IDSk1D_cfIAQ-q88vp_4-4" value="&lt;span style=&quot;font-size: 10pt; font-family: Calibri; font-weight: bold;&quot;&gt;Medicine Demand Forecasting&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IDSk1D_cfIAQ-q88vp_4-7" value="GATHERING&amp;nbsp;&lt;br&gt;MEDICINE&lt;br&gt;FREQUENCY" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="723" width="100" height="60" as="geometry" />
